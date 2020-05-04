@@ -1,20 +1,17 @@
 Andrew Cudworth
 CS 7641 (Spring 2020)
-Assignment 2 Randomized Optimization
+https://www.omscs.gatech.edu/cs-7641-machine-learning
 
 
-Code is located at 
-https://github.com/acudworth3/Randomized_Optimization_Exploration
+Randomized Optimization-analysis.pdf contains the analysis of learning models
 
-sklearn and numpy are used heavily and cited througout analysis. 
-All Neccessary libraries are in requirenments.txt 
-
-heavily used references:
-https://github.com/hiive/mlrose
-https://mlrose.readthedocs.io/en/stable/
+Primary Topics:
+-Neural Net Weight Optimization
+-Genetic Algorithims
+-Randomized Hill Climbing
+-Simulated Annealing
 
 
-acudworth3-analysis.pdf contains the analysis of search Algorithims
 
 Original Data:
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data (airbnb)
@@ -27,3 +24,16 @@ python Plot_Figure_X.py will generate the figure
     -Iteration_time_dump.txt contains values used to caculate Table 4
     
 -Table 5 is generated via Table_5.py and must be run in the NN_files Folder    
+
+sklearn and numpy are used heavily and cited througout analysis. 
+All Neccessary libraries are in requirenments.txt 
+
+heavily used references:
+https://github.com/hiive/mlrose
+https://mlrose.readthedocs.io/en/stable/
+
+
+PLAGARISM DISCLAIMER:
+If you are currently enrolled in the class this assignment was written for and copy exploration methods, report contents, or hyperparameters
+without attribution it is plagiarism. Additionally values in the reports and code have been modified to in a manner specific to this 
+repo allowing easy detection of copying.
